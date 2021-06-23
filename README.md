@@ -23,4 +23,6 @@ el bucle se repetirá hasta que el segundo pulsador es presionado para continuar
 Las variables son “Tiempo Temporal” que se suma al terminar de hacer una pulsación al interruptor
 pulsador 1.
 
+
+<img src="https://github.com/YersonApaza/Semaforo-S4A/blob/main/WhatsApp%20Image%202021-06-22%20at%207.19.33%20PM.jpeg" width="250">
 yapazat@unsa.edu.pe - https://www.facebook.com/Club-de-genios-113412387648600
